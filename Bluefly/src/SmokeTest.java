@@ -11,5 +11,9 @@ public class SmokeTest extends BaseTest
 		MenPage mp = hp.ClickMenLink();
 		
 	}
+public void m2()
+{
+	
+}
 
 }
